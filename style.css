@@ -24,6 +24,7 @@ button {
   border: 1px solid lightgray;
   border-radius: 5px;
   background: whitesmoke;
+  color: black;
 }
 
 button:hover {
@@ -112,12 +113,12 @@ header {
   top: 3%;
   right: 2%;
   position: absolute;
-  color: #1a1a1a;
+  color: rgb(66, 16, 247);
   transition: 0.3s ease-out;
 }
 
 .fa-minus:hover {
-  color: rgb(66, 16, 247);;
+  color: rgb(66, 16, 247);
 }
 
 @media (max-width: 1280px) {
